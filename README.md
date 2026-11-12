@@ -1,7 +1,7 @@
-# Kit
-Kit & template dasar untuk Sistem Operasi
+# Kit IF2230 OS-2023
+Kit & template dasar untuk IF2230 - Sistem Operasi 2023
 
-
+Spesifikasi dan guidebook dapat diakses pada link Google Docs yang dikirim pada milis atau folder [docs](docs/)
 
 ## Main content
 - Milestone 1: Booting, Kernel, 32 bit Protected Mode 
@@ -29,9 +29,14 @@ Kit & template dasar untuk Sistem Operasi
 
 ![image](/other/img/shell.gif)
 
+## Kit & misc
+Kit list
+1. https://github.com/Sister20/kit-OS-2023
+2. https://github.com/Sister20/kit-OS-milestone-2-2023
+3. https://github.com/Sister20/kit-OS-milestone-3-2023
 
+Disusun oleh asisten laboratorium Sistem Paralel dan Terdistribusi ITB '19 dan '20
 
+Disclaimer : Seluruh material yang digunakan pada spesifikasi dan kit digunakan untuk kepentingan edukasional dan memenuhi mata kuliah IF2230 - Sistem Operasi tahun 2023
 
-
-Disclaimer : Seluruh material yang digunakan pada spesifikasi dan kit digunakan untuk kepentingan edukasional dan memenuhi mata kuliah - Sistem Operasi
-
+Jika memiliki kendala atau hal lain, dapat mengontak [@Lock1](https://github.com/lock1) atau brshlckd@gmail.com
