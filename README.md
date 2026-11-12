@@ -1,7 +1,7 @@
-# Kit 
-Kit & template Sistem Operasi
+# Kit
+Kit & template dasar untuk Sistem Operasi
 
-Spesifikasi dan guidebook dapat diakses pada link Google Docs yang dikirim pada milis atau folder [docs](docs/)
+
 
 ## Main content
 - Milestone 1: Booting, Kernel, 32 bit Protected Mode 
